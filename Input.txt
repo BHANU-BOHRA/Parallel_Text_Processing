@@ -1,0 +1,3 @@
+Hello world
+OpenMP is fun
+Parallel computing
